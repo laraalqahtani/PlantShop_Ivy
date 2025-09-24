@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/c28bb99c-f980-44e3-825c-e1f5ef205def" />
+
+</p>
+
+
 # 🌿 IVY Plant Shop
 
 IVY Plant Shop is an online shop where users can browse, add, and purchase plants.  
